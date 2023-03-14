@@ -4,9 +4,9 @@
 
 #include "math.h"
 #include "stdarg.h"
-#include "stdint.h"
+// #include "stdint.h"
 #include "stdio.h"
-// #include "stdlib.h"
+#include "stdlib.h"
 
 #define s21_size_t long unsigned
 #define s21_NULL ((void *)0)
